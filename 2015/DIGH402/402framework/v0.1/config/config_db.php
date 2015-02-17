@@ -7,9 +7,9 @@ $db=array(
 // development database
 'dev'=>array(
 'hostname'=>'localhost',
-'username'=>'dbuser',
-'password'=>'dbpassword',
-'database'=>'db'
+'username'=>'402user',
+'password'=>'celine59',
+'database'=>'402framework'
 ),
 //production database
 'prod'=>array(
